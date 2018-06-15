@@ -1,0 +1,14 @@
+body {
+background-color: brown;
+}
+h1,h2 {
+     text-align: center;
+}
+
+h1, h2, { font-size: 120px;}
+
+img {
+  width: 75%;
+  margin: auto;
+  display:block;
+}
